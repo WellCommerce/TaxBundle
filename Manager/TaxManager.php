@@ -10,15 +10,15 @@
  * please view the LICENSE file that was distributed with this source code.
  */
 
-namespace WellCommerce\Bundle\TaxBundle\Manager\Admin;
+namespace WellCommerce\Bundle\TaxBundle\Manager;
 
-use WellCommerce\Bundle\CoreBundle\Manager\Admin\AbstractAdminManager;
+use WellCommerce\Bundle\CoreBundle\Manager\AbstractManager;
 
 /**
  * Class TaxManager
  *
  * @author  Adam Piotrowski <adam@wellcommerce.org>
  */
-class TaxManager extends AbstractAdminManager
+class TaxManager extends AbstractManager
 {
 }
